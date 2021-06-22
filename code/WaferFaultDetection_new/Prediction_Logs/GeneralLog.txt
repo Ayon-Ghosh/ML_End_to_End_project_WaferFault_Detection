@@ -1,0 +1,53 @@
+2021-05-09/23:10:26		GoodRaw directory deleted successfully!!!
+2021-05-09/23:10:26		Bad files moved to archive
+2021-05-09/23:10:26		Bad Raw Data Folder Deleted successfully!!
+2021-05-10/00:02:50		GoodRaw directory deleted successfully!!!
+2021-05-10/00:02:50		Bad files moved to archive
+2021-05-10/00:02:50		Bad Raw Data Folder Deleted successfully!!
+2021-05-10/00:04:16		GoodRaw directory deleted successfully!!!
+2021-05-10/00:04:16		Bad files moved to archive
+2021-05-10/00:04:16		Bad Raw Data Folder Deleted successfully!!
+2021-05-10/00:04:51		GoodRaw directory deleted successfully!!!
+2021-05-10/00:04:51		Bad files moved to archive
+2021-05-10/00:04:51		Bad Raw Data Folder Deleted successfully!!
+2021-05-10/00:05:43		GoodRaw directory deleted successfully!!!
+2021-05-10/00:05:43		Bad files moved to archive
+2021-05-10/00:05:43		Bad Raw Data Folder Deleted successfully!!
+2021-05-10/00:06:08		GoodRaw directory deleted successfully!!!
+2021-05-10/00:06:08		Bad files moved to archive
+2021-05-10/00:06:08		Bad Raw Data Folder Deleted successfully!!
+2021-05-15/20:57:52		GoodRaw directory deleted successfully!!!
+2021-05-15/20:57:52		Bad files moved to archive
+2021-05-15/20:57:52		Bad Raw Data Folder Deleted successfully!!
+2021-05-23/08:50:41		BadRaw directory deleted before starting validation!!!
+2021-05-23/08:50:41		GoodRaw directory deleted successfully!!!
+2021-05-23/08:51:06		GoodRaw directory deleted successfully!!!
+2021-05-23/08:51:06		Bad files moved to archive
+2021-05-23/08:51:06		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/11:19:23		GoodRaw directory deleted successfully!!!
+2021-05-25/11:19:23		Bad files moved to archive
+2021-05-25/11:19:23		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/11:27:18		GoodRaw directory deleted successfully!!!
+2021-05-25/11:27:18		Bad files moved to archive
+2021-05-25/11:27:18		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/11:29:39		GoodRaw directory deleted successfully!!!
+2021-05-25/11:29:39		Bad files moved to archive
+2021-05-25/11:29:39		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/11:30:20		GoodRaw directory deleted successfully!!!
+2021-05-25/11:30:20		Bad files moved to archive
+2021-05-25/11:30:20		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/11:40:31		GoodRaw directory deleted successfully!!!
+2021-05-25/11:40:31		Bad files moved to archive
+2021-05-25/11:40:31		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/12:35:02		GoodRaw directory deleted successfully!!!
+2021-05-25/12:35:02		Bad files moved to archive
+2021-05-25/12:35:02		Bad Raw Data Folder Deleted successfully!!
+2021-05-25/12:48:02		GoodRaw directory deleted successfully!!!
+2021-05-25/12:48:02		Bad files moved to archive
+2021-05-25/12:48:02		Bad Raw Data Folder Deleted successfully!!
+2021-06-17/20:15:06		GoodRaw directory deleted successfully!!!
+2021-06-17/20:15:06		Bad files moved to archive
+2021-06-17/20:15:06		Bad Raw Data Folder Deleted successfully!!
+2021-06-17/20:40:49		GoodRaw directory deleted successfully!!!
+2021-06-17/20:40:49		Bad files moved to archive
+2021-06-17/20:40:49		Bad Raw Data Folder Deleted successfully!!
